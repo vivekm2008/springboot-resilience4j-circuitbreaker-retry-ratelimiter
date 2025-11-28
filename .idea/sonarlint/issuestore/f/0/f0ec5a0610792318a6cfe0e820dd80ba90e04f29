@@ -1,0 +1,10 @@
+
+i
+java:S1192N"LDefine a constant instead of duplicating this literal "electronics" 3 times.(Íæİ¦8“®¨¬3
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8 “®¨¬3
+L	java:S106."+Replace this use of System.out by a logger.(éÕ›„úÿÿÿÿ8¦“®¨¬3
+G	java:S106:"+Replace this use of System.out by a logger.(Óî œ8¨“®¨¬3
+L	java:S106E"+Replace this use of System.err by a logger.(ù€›«ÿÿÿÿÿ8©“®¨¬3
+S
+java:S1068"6Remove this unused "attemptRateLimiter" private field.(ê³é8¢¯˜ª¬3

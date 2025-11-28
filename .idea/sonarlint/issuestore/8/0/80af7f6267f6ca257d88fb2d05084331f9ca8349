@@ -1,0 +1,38 @@
+
+]
+java:S1128";Remove this unused import 'com.javatechie.us.dto.OrderDTO'.(ñˆÖïıÿÿÿÿ8•Ğ§¬3
+y
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ8•Ğ§¬3
+l
+java:S1128"JRemove this unused import 'io.github.resilience4j.retry.annotation.Retry'.(Ä³ß¾úÿÿÿÿ8•Ğ§¬3
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8•Ğ§¬3
+e
+java:S1128
+"HRemove this unused import 'org.springframework.context.annotation.Lazy'.(İ·­æ8•Ğ§¬3
+l
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8•Ğ§¬3
+p
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8•Ğ§¬3
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8•Ğ§¬3
+u
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íş¡şÿÿÿÿ8‘•Ğ§¬3
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‘•Ğ§¬3
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8‘•Ğ§¬3
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‘•Ğ§¬3
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‘•Ğ§¬3
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8‘•Ğ§¬3
+@
+java:S1128"Remove this duplicated import.(¯ìÙÿÿÿÿÿ8‘•Ğ§¬3
+;
+java:S1128"Remove this duplicated import.(Ë”ÖÏ8‘•Ğ§¬3
+;
+java:S1128"Remove this duplicated import.(‚î‰Ş8’•Ğ§¬3
+@
+java:S1128"Remove this duplicated import.(Îö¼Şûÿÿÿÿ8’•Ğ§¬3

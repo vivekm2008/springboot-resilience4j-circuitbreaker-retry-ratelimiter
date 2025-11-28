@@ -1,0 +1,5 @@
+# Created at 2025-11-27T15:03:34.403
+Boot Manifest-JAR contains absolute paths in classpath 'D:\POC_Workspace\CircuitBreakerResilience4J\user-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

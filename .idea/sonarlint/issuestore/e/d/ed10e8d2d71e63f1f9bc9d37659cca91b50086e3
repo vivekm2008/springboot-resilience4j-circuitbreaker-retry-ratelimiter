@@ -1,0 +1,9 @@
+
+i
+java:S1192"LDefine a constant instead of duplicating this literal "electronics" 4 times.(˜þÚ·8ž½ë§¬3
+c
+java:S1192"FDefine a constant instead of duplicating this literal "black" 3 times.(ÙâÜð8Ÿ½ë§¬3
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¬½ë§¬3
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¨ß®‚8³½ë§¬3

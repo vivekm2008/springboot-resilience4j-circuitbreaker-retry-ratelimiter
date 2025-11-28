@@ -1,0 +1,14 @@
+
+i
+java:S1192O"LDefine a constant instead of duplicating this literal "electronics" 3 times.(Íæİ¦8“®¨¬3
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8 “®¨¬3
+L	java:S106/"+Replace this use of System.out by a logger.(éÕ›„úÿÿÿÿ8¦“®¨¬3
+G	java:S106;"+Replace this use of System.out by a logger.(Óî œ8¨“®¨¬3
+L	java:S106F"+Replace this use of System.err by a logger.(ù€›«ÿÿÿÿÿ8©“®¨¬3
+o
+java:S6204U"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(†öúš8¬“®¨¬3
+s
+java:S1128"VRemove this unused import 'io.github.resilience4j.ratelimiter.annotation.RateLimiter'.(ÿƒŠ8¡¯˜ª¬3
+S
+java:S1068"6Remove this unused "attemptRateLimiter" private field.(ê³é8¢¯˜ª¬3
